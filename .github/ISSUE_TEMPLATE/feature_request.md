@@ -1,8 +1,8 @@
 ---
-name: Feature request
+name: FWorkersDev
 about: Suggest an idea for this project
-title: ''
-labels: ''
+title: 'GD Index'
+labels: 'v1.0'
 assignees: ''
 
 ---
