@@ -3,6 +3,10 @@ var authConfig = {
   siteName: "goindex", // 网站名称
   version: "1.1.2", // 程序版本
   theme: "acrou",
+  // 强烈推荐使用自己的 client_id 和 client_secret
+  client_id: "202264815644.apps.googleusercontent.com",
+  client_secret: "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
+  refresh_token: "", // 授权 token
   /**
    * 设置要显示的多个云端硬盘；按格式添加多个
    * [id]: 可以是 团队盘id、子文件夹id、或者"root"（代表个人盘根目录）；
