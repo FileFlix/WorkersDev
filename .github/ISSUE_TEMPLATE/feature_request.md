@@ -1,8 +1,8 @@
 ---
 name: FWorkersDev
 about: Suggest an idea for this project
-title: 'GD Index'
-labels: 'v1.0'
+title: GD Index
+labels: ''
 assignees: ''
 
 ---
